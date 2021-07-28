@@ -1,0 +1,71 @@
+.flex-con{
+    height: 900px;
+    width: 900px;
+    border-radius: 450px;
+    position: relative;
+    left: 650px;
+    bottom: 600px;
+}
+.flex-con img{
+    position: relative;
+    top: 600px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.one{
+
+}
+.three{
+    position: relative;
+    bottom: 900px;
+    left: 60px;
+}
+.four{
+    background-color: white;
+    position: relative;
+    bottom: 800px;
+}
+.four h2{
+    position: relative;
+    bottom: 600px;
+    left: 1100px;
+}
+.four p{
+    position: relative;
+    bottom: 600px;
+    left: 1100px;
+}
+.menu{
+    width: 1500px;
+    padding: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    background-color: #C9ECB5;
+    position: relative;
+    bottom: 1000px;
+}
+.menu h2{
+    display: flex;
+    position: relative;
+    left: 700px;
+}
+.five{
+    position: relative;
+    top: 100px;
+}
+.six{
+    position: relative;
+    top: 100px;
+}
+.seven{
+    position: relative;
+    top: 100px;
+}
+.img{
+    position: relative;
+    right: 200px;
+}
