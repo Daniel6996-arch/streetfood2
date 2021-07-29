@@ -72,10 +72,16 @@ padding-bottom: 150px;
     background-color: white;
     position: relative;
     left: 250px;
+    padding: 10px;
 }
 .menu{
     background-color: #649549;
 }
 .menu h2{
     text-align: center;
+}
+.button{
+    height: 40px;
+    background-color: #6cb840;
+    border-radius: 20px;
 }
