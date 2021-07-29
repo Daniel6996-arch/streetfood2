@@ -23,6 +23,7 @@ body{
     position: relative;
     bottom: 370px;
     left: 1370px;
+    background-color: #649564;
 }
 footer{
     height: 200px;
@@ -96,4 +97,7 @@ padding-bottom: 150px;
 }
 .three h1{
     color: #eaab1b;
+}
+form{
+    
 }
