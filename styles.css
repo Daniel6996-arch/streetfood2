@@ -39,7 +39,7 @@ ul{
     left: 1100px;
 }
 .menu{
-    width: 1000px;
+    width: 1300px;
     height: 900px;
     padding: auto;
     display: flex;
@@ -47,7 +47,7 @@ ul{
     background-color: grey;
     position: relative;
     bottom: 1000px;
-    left: 250px;
+    left: 100px;
 }
 .menu h2{
     display: flex;
@@ -88,12 +88,30 @@ ul{
     margin-right: 80px;
     padding: 10px;
 }
-.happy, .eight {
-    width: 900px;
-    height: 900px;
-    padding: 70px;
+.happy{
+    width: 1300px;
+    height: 500px;
+    padding: 355px;
     position: relative;
     top: 900px;
     right: 775px;
     background-color: #649549;
+}
+.happy h2{
+    position: relative;
+    top: -300px;
+    left: 200px;
+}
+.happy img{
+    position: relative;
+    top: -350px;
+    left: -150px;
+}
+.happy .img1{
+    position: relative;
+    top: -650px;
+    left: -100px;
+}
+.head{
+    color: #6bc840;
 }
