@@ -127,13 +127,41 @@ ul{
     right: 2200px;
     top: 1800px;
     background-color: #ffd77c;
-    padding: 580px;
+    padding: 555px;
     padding-top: 10px;
-    padding-bottom: 600px;
+    padding-bottom: 400px;
     text-align: center;
 }
 .contact h2{
     text-align: center;
     position: relative; 
 }
+.footer{ 
+    height: 1px;
+    position: relative;
+    left: -3500px;
+    top: 2400px;
+    padding: 350px;
+    padding-bottom: 0px;
+    display: flex;
+    align-items: flex-start;
+    clear: both;
+    background-color: #c9ecb5;
 
+}
+footer h4{
+    position: relative;
+    bottom: 250px;
+    right: 300px;
+}
+footer h3{
+    position: relative;
+    bottom: 250px;
+    right: 270px;
+}
+footer p{
+    position: relative;
+    bottom: 250px;
+    right: 300px;
+}
+}
