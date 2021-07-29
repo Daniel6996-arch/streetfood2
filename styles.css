@@ -78,5 +78,9 @@ ul{
 }
 .color{
     background-color: grey;
-    padding: 0px;
+    width: 1500px;
+    border: 20px solid grey;
+    position: relative;
+    right: 30px;
+    bottom: 55px;
 }
