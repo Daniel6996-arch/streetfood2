@@ -38,10 +38,9 @@ background-color: #FFD77C;
 padding-bottom: 150px;
 }
 .eight{
-    text-align: center;
     position: relative;
     left: 200px;
-    bottom: 400px;
+    bottom: 450px;
 }
 .happy #imgo{
     position: relative;
@@ -50,7 +49,8 @@ padding-bottom: 150px;
 }
 #imga{
     position: relative;
-    right: 200px;
+    right: 260px;
+    bottom: 50px;
 }
 .happy{
     background-color: #c9ecb5;
