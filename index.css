@@ -61,3 +61,21 @@ padding-bottom: 150px;
     display: flex;
     flex-direction: row;
 }
+.menu img{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    right: 40px;
+    top: 30px;
+}
+.menu p{
+    background-color: white;
+    position: relative;
+    left: 250px;
+}
+.menu{
+    background-color: #649549;
+}
+.menu h2{
+    text-align: center;
+}
