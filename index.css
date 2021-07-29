@@ -60,5 +60,4 @@ padding-bottom: 150px;
 .five, .six, .seven{
     display: flex;
     flex-direction: row;
-    clear: left;
 }
