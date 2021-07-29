@@ -1,3 +1,14 @@
 .center h2, .eight p{
 text-align: center;
 }
+.head{
+    position: relative;
+    left: 550px;
+}
+.center h2{
+    position: relative;
+    top: 50px;
+}
+span{
+    color: #6cb840;
+}
