@@ -12,3 +12,29 @@ text-align: center;
 span{
     color: #6cb840;
 }
+.four{
+    text-align: center;
+}
+.four img{
+    position: relative;
+    right: 200px;
+}
+.four h2{
+position: relative;
+left: 450px;
+bottom: 600px;
+}
+.four p{
+    position: relative;
+left: 450px;
+bottom: 600px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.flex-con{
+    position: relative;
+    left: 600px;
+}
