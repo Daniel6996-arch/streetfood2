@@ -39,13 +39,15 @@ ul{
     left: 1100px;
 }
 .menu{
-    width: fit-content;
+    width: 1000px;
+    height: 900px;
     padding: auto;
     display: flex;
     flex-direction: row;
     background-color: grey;
     position: relative;
     bottom: 1000px;
+    left: 250px;
 }
 .menu h2{
     display: flex;
@@ -59,6 +61,8 @@ ul{
     height: 300px;
     width: 300px;
     font-size: xx-small;
+    display: flexbox;
+    justify-content: stretch;
 }
 .img{
     position: relative;
@@ -71,7 +75,7 @@ ul{
     left: 700px;
 }
 .one{
-    background-color: #c9ecb5;
+    background-color: white;
     width: auto;
 } 
 .five p, .six p, .seven p{
@@ -83,4 +87,13 @@ ul{
     background-color: white;
     margin-right: 80px;
     padding: 10px;
+}
+.happy, .eight {
+    width: 900px;
+    height: 900px;
+    padding: 70px;
+    position: relative;
+    top: 900px;
+    right: 775px;
+    background-color: #649549;
 }
