@@ -61,8 +61,6 @@ ul{
     height: 300px;
     width: 300px;
     font-size: xx-small;
-    display: flexbox;
-    justify-content: stretch;
 }
 .img{
     position: relative;
@@ -90,7 +88,7 @@ ul{
 }
 .happy{
     width: 1300px;
-    height: 500px;
+    height: 200px;
     padding: 355px;
     position: relative;
     top: 900px;
@@ -118,8 +116,24 @@ ul{
     top: 1000px;
 }
 .head{
+    display: flex;
     color: #6bc840;
     display: flex;
     flex-wrap: nowrap;
+}
+.contact{
+    height: 100px;
+    position: relative;
+    right: 2200px;
+    top: 1800px;
+    background-color: #ffd77c;
+    padding: 580px;
+    padding-top: 10px;
+    padding-bottom: 600px;
+    text-align: center;
+}
+.contact h2{
+    text-align: center;
+    position: relative; 
 }
 
