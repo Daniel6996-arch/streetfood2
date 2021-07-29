@@ -104,14 +104,22 @@ ul{
 }
 .happy img{
     position: relative;
-    top: -350px;
-    left: -150px;
+    top: -500px;
+    left: -300px;
 }
 .happy .img1{
     position: relative;
-    top: -650px;
-    left: -100px;
+    top: -850px;
+    left: -250px;
+}
+.eight{
+    position: relative;
+    right: 1500px;
+    top: 1000px;
 }
 .head{
     color: #6bc840;
+    display: flex;
+    flex-wrap: nowrap;
 }
+
