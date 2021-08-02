@@ -32,12 +32,14 @@ footer{
     padding-right: 0px;
     background-color: #c9ecb5;
     position: relative;
-    top: 40px;
+    bottom: 870px;
 }
 .contact{
 text-align: center;
 background-color: #FFD77C;
 padding-bottom: 150px;
+position: relative;
+bottom: 1010px;
 }
 .eight{
     position: relative;
@@ -58,6 +60,8 @@ padding-bottom: 150px;
     background-color: #c9ecb5;
     padding-bottom: 0px;
     height: 700px;
+    position: relative;
+    bottom: 1030px;
 }
 .five, .six, .seven{
     display: flex;
@@ -78,7 +82,10 @@ padding-bottom: 150px;
     border-radius: 20px;
 }
 .menu{
-    background-color: #c9ecb5;
+    background-color: green;
+    position: relative;
+    bottom: 1000px;
+    padding-top: 20px;
 }
 .menu h2{
     text-align: center;

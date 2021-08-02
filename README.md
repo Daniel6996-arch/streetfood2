@@ -1,8 +1,10 @@
 # {website}
-#### {This is a streetfood website}, {24/7/2021}}
+#### {This is a streetfood website}, {24/7/2021}
 #### By **{Daniel6996-arch}**
 ## link
-https://Daniel6996-arch.github.io/streetfood/
+https://Daniel6996-arch.github.io/streetfood2/
+## Website Desigh link
+https://www.figma.com/file/4bf7KFvXFmWks6d5zBxsHp/Untitled?node-id=0%3A1
 ## Description
 {This website is about streetfood.}
 ## Setup/Installation Requirements
